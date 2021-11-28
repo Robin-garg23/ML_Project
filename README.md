@@ -28,7 +28,7 @@ We used the official API of TMBd to fetch the details of movies to form our data
 - utkarsh19213@iiitd.ac.in
 - bhaskar19237@iiitd.ac.in
 - robin19092@iiitd.ac.in
-- krishna212001@iiitd.ac.in
+- krishna21001@iiitd.ac.in
 
 ## Final Report
 [Click Here](https://github.com/Robin-garg23/ML_Project/blob/main/reports/MLProjectFinalReport_G35.pdf)
